@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Circulos y Cruzes</string>
+    <string name="un_jugador">1 Jugador</string>
+    <string name="dos_jugadores">2 Jugador</string>
+    <string name="facil">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="dificil">Imposible</string>
+    <string name="casilla">Casilla</string>
+    <string name="circulos_gana">Circulos Ganan !</string>
+    <string name="aspas_gana">Cruzes Ganan !</string>
+    <string name="empate">Empate !</string>
+    <string name="pierdes">Has Perdido ! Prueba Otra Vez!</string>
+</resources>
